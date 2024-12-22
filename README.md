@@ -87,8 +87,8 @@ python main_transductive.py \
     --num_layers 1 \
     --num_hidden 512 \
     --num_heads 2 \
-	--graphfile GRAPHFILE \ 
-	--embeddingfile EMBEDDINGFILE \
+    --graphfile GRAPHFILE \ 
+    --embeddingfile EMBEDDINGFILE \
 ```
 
 

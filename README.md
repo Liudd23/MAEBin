@@ -19,14 +19,14 @@ cd MAEBin
 * scikit-learn==1.5.2
 * dgl==2.4.0
 * ogb==1.3.6
-* [scipy==1.13.1]
+* scipy==1.13.1
 * tensorboardX==2.6.2.2
 
 ### An easiler way to install
 
 *Note*: we suggest you to install all the package using conda (both miniconda and [Anaconda](https://anaconda.org/) are ok)
 
-After cloning this respository, you can use anaconda to install the **PHPGATv2.yaml**. The command is: 
+After cloning this respository, you can use anaconda to install . The command is: 
 
 ```
 conda env create -f environment.yml -n MAEBin
@@ -162,3 +162,4 @@ bash Run_MAEBin.sh --contigs /path/to/contig.fa --bwa-file /path/to/bwa_output.b
 ```
 
 ## Thank you for using MAEBin！
+If you have any questions, feel free to email me. My email is liudd23@163.com.
